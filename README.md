@@ -17,7 +17,7 @@ Digital certificates and signatures ensure data integrity and authenticity. This
 ### **Prerequisites**
 - OpenSSL installed on your system.
 - Basic familiarity with the command line.
-- A text file (e.g., `example.txt`) to sign.
+- A text file (e.g., `file_to_sign.txt`) to sign.
 
 ---
 
