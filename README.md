@@ -79,7 +79,7 @@ openssl dgst -sha256 -sign private.key -out signature.bin file_to_sign.txt
 - `-sha256`: Uses the SHA-256 algorithm.
 - `-sign private.key`: Signs the data with the private key.
 - `-out signature.bin`: Specifies the output file for the signature.
-- `example.txt`: The input file to sign.
+- `file_to_sign.txt`: The input file to sign.
 
 ---
 
